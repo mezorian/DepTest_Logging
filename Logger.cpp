@@ -2,5 +2,5 @@
 
 void Logger::log(string val_)
 {
-    cout << "DEBUG : " << val_ << endl;
+    cout << val_ << endl;
 }
