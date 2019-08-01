@@ -1,11 +1,6 @@
 #include "Logger.h"
 
-Logger::Logger()
-{
-
-}
-
 void Logger::log(string val_)
 {
-    cout << val_ << endl;
+    cout << "DEBUG : " << val_ << endl;
 }
