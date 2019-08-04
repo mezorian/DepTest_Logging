@@ -9,7 +9,7 @@ class Logger {
     public:
         Logger() {}
         void log(string val_) {
-            cout << "DEBUG: " << val_ << endl;
+            cout << val_ << endl;
         }
 };
 
