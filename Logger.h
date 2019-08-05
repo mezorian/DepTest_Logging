@@ -5,12 +5,12 @@
 
 using namespace std;
 
-namespace logger5 {
+namespace logger6 {
     class Logger {
         public:
             Logger() {}
             void log(string val_) {
-                cout << "DEBUG: " << val_ << endl;
+                cout << val_ << endl;
             }
     };
 }

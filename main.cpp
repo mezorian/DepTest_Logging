@@ -1,7 +1,7 @@
 #include "Logger.h"
 
 // only visible in current compilation unit
-using Logger = logger5::Logger;
+using Logger = logger6::Logger;
 
 int main() {
     Logger l;
