@@ -10,7 +10,7 @@ namespace logger6 {
         public:
             Logger() {}
             void log(string val_) {
-                cout << DEBUG << val_ << endl;
+                cout << "DEBUG" << val_ << endl;
             }
     };
 }
