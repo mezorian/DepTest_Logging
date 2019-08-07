@@ -15,4 +15,4 @@ script:
   - /opt/qt55/bin/qmake
   - make clean
   - make
-  - ./DepTest_Logging
+  - ./main
