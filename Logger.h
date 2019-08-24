@@ -1,11 +1,11 @@
-#ifndef LOGGER8_H
-#define LOGGER8_H
+#ifndef LOGGER9_H
+#define LOGGER9_H
 
 #include <iostream>
 
 using namespace std;
 
-namespace logger8 {
+namespace logger9 {
     class Logger {
         public:
             Logger() {}
